@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576732168571",
+    "project_id": "savetogether-63323",
+    "storage_bucket": "savetogether-63323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576732168571:android:9c443765cc4be8578a3dde",
+        "android_client_info": {
+          "package_name": "com.diplom.together_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576732168571-9sbatho6q0c8uj2b280c9p4a4gg9kc4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJyF1CNomASqG3vVwCnOLRhSAsmavFS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576732168571-9sbatho6q0c8uj2b280c9p4a4gg9kc4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
